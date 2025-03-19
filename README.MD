@@ -22,5 +22,9 @@ Caso haja interesse, segue meus contatos abaixo:
 
 ## PROJETOS
 -------------------------------------------------------------------------------------------------------------------------------
+# [Projeto - Ecommerce Análise de Faturamento Anual](https://github.com/FelipeRodrii/Projeto-Ecommerce)
+* Dashboard Simples sobre o total anual de um Ecommerce fictício, em que foram realizadas avaliações comparativos sobre total de faturamento, gastos, lucros etc... . 
+![https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/First_Page.png]
+
 
 
