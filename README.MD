@@ -19,7 +19,8 @@ Caso haja interesse, segue meus contatos abaixo:
 * Email: Feliperodri2701@gmail.com
 
 ## PROJETOS
-# [Projeto - Ecommerce Análise de Faturamento Anual](https://github.com/FelipeRodrii/Projeto-Ecommerce)
+# Projeto - Ecommerce Análise de Faturamento Anual
+[Veja mais sobre o projeto](https://github.com/FelipeRodrii/Projeto-Ecommerce)
 * Dashboard sobre o total anual de um Ecommerce fictício, em que foram realizadas avaliações comparativos sobre total de faturamento, gastos, lucros e outras informações cabiveis. 
 * Neste projeto utilizeis Python(random, datetime, Faker, pandas), Excel e Power Bi, automatizandos a análise de dados.
 <img src="https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Dashboard" width = "600px" />
