@@ -25,4 +25,6 @@ Caso haja interesse, segue meus contatos abaixo:
 * Neste projeto utilizeis Python(random, datetime, Faker, pandas), Excel e Power Bi, automatizandos a análise de dados.
 <img src="https://github.com/FelipeRodrii/Projeto-Ecommerce/blob/main/Dashboard" width = "600px" />
 
-
+# Projeto - Case Técnico - iFood
+[Veja mais sobre este projeto](https://github.com/FelipeRodrii/Case-Tecnico-iFood)
+* Este Projeto é exercicío técnico proposto pelo iFood, com o objetivo de demonstrar habilidades em <b>análise descritiva</b> e <b>exploratória de dados.</b> Neste projeto tive o objetivo de dar foco na capacidade retornar Insights para a área de Marketing.</p>
